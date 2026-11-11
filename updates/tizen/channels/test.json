@@ -1,7 +1,12 @@
 {
-  "current": "2.0.26",
-  "build": 6,
+  "current": "2.0.27",
+  "build": 7,
   "recent": [
+    {
+      "version": "2.0.27",
+      "build": 7,
+      "dataLevel": 0
+    },
     {
       "version": "2.0.26",
       "build": 6,
