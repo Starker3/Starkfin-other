@@ -1,0 +1,945 @@
+{
+  "version": 1,
+  "photos": [
+    {
+      "id": "gavarnie-cirque",
+      "place": "Cirque de Gavarnie, Hautes-Pyr\u00e9n\u00e9es, France",
+      "credit": "Photo: Benh LIEU SONG, CC BY-SA 2.0",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cirque_de_Gavarnie,_Haute-Pyr\u00e9n\u00e9es,_France.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "1699ffcb84e633ea5adf4d88045580f55b21144d3281b277bedc32c9ba5ac343",
+          "bytes": 411611
+        },
+        "2160": {
+          "sha256": "b868fec43c18b810cd98c64816302e73485bb79152952fa56f6bda2957e98fd4",
+          "bytes": 3727917
+        }
+      }
+    },
+    {
+      "id": "buachaille-etive-mor",
+      "place": "Buachaille Etive M\u00f2r, Glen Coe, Highlands, Scotland, United Kingdom",
+      "credit": "Photo: Colin, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagangarbh_cottage_with_Buachaille_Etive_M\u00f2r.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "93b6a8538127c9dc9d9a761991b99e384fad4906fa3c4debb641704a41a5bb21",
+          "bytes": 568716
+        },
+        "2160": {
+          "sha256": "754e523fe43dfc1dfcec1ef1a3972218b032b89885d9c5b1f5ba42cc9283fb11",
+          "bytes": 2242620
+        }
+      }
+    },
+    {
+      "id": "watzmann-stanggass",
+      "place": "Watzmann, Berchtesgaden Alps, Bavaria, Germany",
+      "credit": "Photo: J\u00f6rg Braukmann, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Watzmann_(Stangga\u00df).jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "344e22d2b1fb13f7ae77b18fd8e0deb478e3a595d523f1abdfec9e9d8147d5e4",
+          "bytes": 286223
+        },
+        "2160": {
+          "sha256": "e9aba28d6c0bf7b3d59deb4ea110c0692c41789d2b2b5bc7da01b0ecbfda23df",
+          "bytes": 1015853
+        }
+      }
+    },
+    {
+      "id": "reynisfjara-iceland",
+      "place": "Reynisfjara, Su\u00f0urland, Iceland",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reynisfjara,_Su\u00f0urland,_Islandia,_2014-08-17,_DD_164.JPG",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "7104cc3c4e0d290eec3e001025fd7f4283775dcdaafeb69c8f954fde500a16ac",
+          "bytes": 426332
+        },
+        "2160": {
+          "sha256": "26195ed2d4c8681b5233d044e6a43baa494f25e449d143e83b7dd4ba2acd94fc",
+          "bytes": 1544486
+        }
+      }
+    },
+    {
+      "id": "jokulsarlon-lagoon",
+      "place": "J\u00f6kuls\u00e1rl\u00f3n, Southeast Iceland, Iceland",
+      "credit": "Photo: Jakub Ha\u0142un, CC BY 4.0",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:J\u00f6kuls\u00e1rl\u00f3n_glacier_lagoon,_Iceland,_20240718_1558_2277.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "be8ee80a37eab262587eeebd596dc9ebf20151fd7a8e823b5b444573a22e3b91",
+          "bytes": 278127
+        },
+        "2160": {
+          "sha256": "5519e090696b9b91a1e0639ada61cb75529b96c696d1af905ba14c9b3215b8d7",
+          "bytes": 942282
+        }
+      }
+    },
+    {
+      "id": "hverfjall-myvatn",
+      "place": "Hverfjall, M\u00fdvatn, Northeast Iceland, Iceland",
+      "credit": "Photo: Martin Falbisoner, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hverfjall_July_2014.JPG",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "7cb2dfb469fca7c37f781d22e9d6d83b43dc8adc99be0fd429e4b405490e1f54",
+          "bytes": 269794
+        },
+        "2160": {
+          "sha256": "7f22682e07b00a9361f184a78a3805e5fa262b735e7ed79c0592ea692137ffea",
+          "bytes": 973015
+        }
+      }
+    },
+    {
+      "id": "teide-tenerife",
+      "place": "Teide, Tenerife, Canary Islands, Spain",
+      "credit": "Photo: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de",
+      "licence": "CC BY-SA 3.0 de",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teide_von_Nordosten_(Zuschnitt_1).jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "b96a1a64329e4ffe38754533729fc71ce9b5f475ca6163dee1db81a9862606e3",
+          "bytes": 596320
+        },
+        "2160": {
+          "sha256": "93fcdf903a9e213889005f60e45646ed42169c883c85647748c9812f4f500a9d",
+          "bytes": 2799390
+        }
+      }
+    },
+    {
+      "id": "wulingyuan-zhangjiajie",
+      "place": "Wulingyuan, Zhangjiajie, Hunan, China",
+      "credit": "Photo: chensiyuan, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "5d55d3461ecc37e50e2b96e3e6a3347187fe92c3de915d7e1c6f2ed2c6bd7047",
+          "bytes": 507423
+        },
+        "2160": {
+          "sha256": "3b728e33bad5bbc36d8e58872a6b8fd0a1957cc645e7a581d3db68f3e185a49b",
+          "bytes": 2776292
+        }
+      }
+    },
+    {
+      "id": "machhapuchhre-nepal",
+      "place": "Machhapuchhre, Annapurna region, Gandaki, Nepal",
+      "credit": "Photo: Bijay Chaurasia, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machhapuchhre_or_Fishtail_Mountain_6,993_m_(22,943_ft)-_IMG_5246.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "8152dff7f45370f325fd721ef646b99f7584253d7e1a89028d01ba0ffb3514a0",
+          "bytes": 571078
+        },
+        "2160": {
+          "sha256": "3ff4bf6b483ef99ce63eef89d7fa427ede2e6612a6ab8842ada23819b0d4324e",
+          "bytes": 2030277
+        }
+      }
+    },
+    {
+      "id": "ustyurt-bozzhyra",
+      "place": "Bozzhyra, Ustyurt Plateau, Mangystau Region, Kazakhstan",
+      "credit": "Photo: \u041c\u0430\u043a\u0441\u0430\u044279, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:\u0427\u0438\u043d\u043a\u0438_\u043f\u043b\u0430\u0442\u043e_\u0423\u0441\u0442\u044e\u0440\u0442._\u0423\u0440\u043e\u0447\u0438\u0449\u0435_\u0411\u043e\u0437\u0436\u044b\u0440\u0430.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "0119df6311fd8d4ca545599528e84b3562123944ee0b00fae5b4c208197b3697",
+          "bytes": 466407
+        },
+        "2160": {
+          "sha256": "7c55d8e5259cd6a203006627db58f0a6d90df4d37dc6f37313745a0103e773ec",
+          "bytes": 2436068
+        }
+      }
+    },
+    {
+      "id": "tolbachik-kamchatka",
+      "place": "Tolbachik, Kamchatka Krai, Russia",
+      "credit": "Photo: Original: Anton Korablev Derivative work: Aristeas, CC BY 4.0",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tolbachik_(cropped).jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "3bed81723471790939644b5224b918b64bd1f8247dd0905f51e07b838a1d6af2",
+          "bytes": 370037
+        },
+        "2160": {
+          "sha256": "474c5e62880e4dbd5408b6208461868f188ad1cb70113be439d32e39861b7150",
+          "bytes": 1138862
+        }
+      }
+    },
+    {
+      "id": "namib-naukluft-dunes",
+      "place": "Namib-Naukluft National Park, Hardap, Namibia",
+      "credit": "Photo: Yathin S Krishnappa, CC BY-SA 3.0",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namib-Naukluft_Sand_Dunes_(2011).jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "2ec2f89f320a1dff9019aaa1d84b0edea78877574a1e31f628ed18a784483d9c",
+          "bytes": 270868
+        },
+        "2160": {
+          "sha256": "ce91a9952bad5d76b99c47a15142f696ed513be5e2c7dbef35f85f9ddffba665",
+          "bytes": 864534
+        }
+      }
+    },
+    {
+      "id": "sossusvlei-dune",
+      "place": "Sossusvlei, Namib-Naukluft National Park, Namibia",
+      "credit": "Photo: Daniel Kraft, CC BY-SA 3.0",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sossusvlei_Dune_Rippled_cropped.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "b491013485e93fae6a355b9a93a68b0bf14fd521576240a1a1e2be90aa78f848",
+          "bytes": 473500
+        },
+        "2160": {
+          "sha256": "80de70031e6cad33b74286d8c3b6426b2a6b18f3dcce50274c5bd7cc9eff57a6",
+          "bytes": 1622347
+        }
+      }
+    },
+    {
+      "id": "noordhoek-beach",
+      "place": "Noordhoek Beach, Cape Peninsula, Western Cape, South Africa",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Playa_Noordhoek,_Sud\u00e1frica,_2018-07-23,_DD_126.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "47c71738d227cd8648151b776c6742e638066c431202f64c8d155d1645bbdd98",
+          "bytes": 546330
+        },
+        "2160": {
+          "sha256": "ff103fc1c063ca1b7283011839cbefd47f45f3b4d3170717d8225dcf2b1a4f63",
+          "bytes": 1897624
+        }
+      }
+    },
+    {
+      "id": "makgadikgadi-baobab",
+      "place": "Makgadikgadi Pans National Park, Central District, Botswana",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baobab_(Adansonia_digitata),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_09.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "aee2a4d8b6d992a06d9510da4f6b71517fdc07142d49edca42c39856ef10ada5",
+          "bytes": 449964
+        },
+        "2160": {
+          "sha256": "27fbcd2a7941b173e6d7ba2e81d68c1e8756b6d67e5f783995e84819cb443437",
+          "bytes": 3225996
+        }
+      }
+    },
+    {
+      "id": "tizi-n-tichka-pass",
+      "place": "Tizi n'Tichka Pass, High Atlas, Morocco",
+      "credit": "Photo: Ingo Mehling, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tizi_n'Tichka_Pass_-_2.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "96ec33536428155889f0b89c899b7f3f4303a130da57018f471e292e9ec47065",
+          "bytes": 384624
+        },
+        "2160": {
+          "sha256": "1d853092480045b04f042067e7a7a94b25d8f8035650448c5ac05a17a100f079",
+          "bytes": 1220132
+        }
+      }
+    },
+    {
+      "id": "piton-de-la-fournaise",
+      "place": "Piton de la Fournaise, R\u00e9union, France",
+      "credit": "Photo: B.navez, CC BY-SA 3.0",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:R\u00e9union_PitonFournaise_Crat\u00e8reRivals_surroundings2.JPG",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "8243b234432463e91443f7e885434230e02536b2e5ee840a0d2687133e74185b",
+          "bytes": 523940
+        },
+        "2160": {
+          "sha256": "651c674341ad364daa61fd96f7676bdeb9606e468b536b0ce4ee77ab822f7588",
+          "bytes": 1403207
+        }
+      }
+    },
+    {
+      "id": "horseshoe-bend-arizona",
+      "place": "Horseshoe Bend, Page, Arizona, United States",
+      "credit": "Photo: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Horseshoe_Bend.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "c901673c9a685c532afd426e3624625c2715b3fe28516484caac207b24d31abb",
+          "bytes": 444831
+        },
+        "2160": {
+          "sha256": "ebced92dc51e22f116aa21ddd59f671f15b0f418f5baa02dee3489131b762181",
+          "bytes": 2428570
+        }
+      }
+    },
+    {
+      "id": "the-wave-arizona",
+      "place": "The Wave, Coyote Buttes North, Arizona, United States",
+      "credit": "Photo: Romain Guy, CC0",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Wave_rock_formation_-_Arizona.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "ce3540d5471637953f202b4a0cd69cd26941fef535a39ceeb80db3910d8e3170",
+          "bytes": 599522
+        },
+        "2160": {
+          "sha256": "ed91bfa7d38dca57633b600c0efa5769639a0c68f19a4d89e41ec9bf6d9ba332",
+          "bytes": 3512457
+        }
+      }
+    },
+    {
+      "id": "waimea-canyon-kauai",
+      "place": "Waimea Canyon, Kaua\u02bbi, Hawaii, United States",
+      "credit": "Photo: Frank Schulenburg, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waimea_Canyon,_Kaua\u02bbi.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "c21813340c973a791b9a8392ae577f5c50340f1115d247e90e4a53491b614c2b",
+          "bytes": 467358
+        },
+        "2160": {
+          "sha256": "997de143eee278131145c8ab568fdf185bbd5323f186e37bf0c5ea3b1f905198",
+          "bytes": 3561510
+        }
+      }
+    },
+    {
+      "id": "lake-louise-alberta",
+      "place": "Lake Louise, Banff National Park, Alberta, Canada",
+      "credit": "Photo: Chensiyuan, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "cf6969f156392228777a8a9a10cd124550d61017a86caeb525346cbcec7b66fc",
+          "bytes": 576225
+        },
+        "2160": {
+          "sha256": "5e07246079839d945d5499e732a099e3abf8f3b6802ca1e6b8772f37ad66f07f",
+          "bytes": 2113591
+        }
+      }
+    },
+    {
+      "id": "mount-shasta-sunset",
+      "place": "Mount Shasta, Siskiyou County, California, United States",
+      "credit": "Photo: Frank Schulenburg, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_face_of_Mount_Shasta_at_sunset-2175.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "60be2fe26aac309e6d15b697380a2515ec65087ea30d754b133372b94cd12d5b",
+          "bytes": 397115
+        },
+        "2160": {
+          "sha256": "ad5d538f78d4a962ff4fff42acee9a42fbf0eb72ae01b8d963e9a454e26fff9a",
+          "bytes": 1571828
+        }
+      }
+    },
+    {
+      "id": "chugach-alaska",
+      "place": "Chugach State Park, Alaska, United States",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parque_estatal_Chugach,_Alaska,_Estados_Unidos,_2017-08-22,_DD_68.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "c785fb500046bd472e6769c0a65b90f6fb27399d0feccae847a946cf9dc678c8",
+          "bytes": 419835
+        },
+        "2160": {
+          "sha256": "16f18c6d71baaec27b999b008368c7473d89b56b13e6e6a9392651533d690847",
+          "bytes": 3496653
+        }
+      }
+    },
+    {
+      "id": "toronto-skyline-sunset",
+      "place": "Toronto skyline from Snake Island, Ontario, Canada",
+      "credit": "Photo: Jchmrt, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "ac48a3a78d080091f74a3e1744fe2f723820660bfa1ec36ab1342d7d9bd4dc36",
+          "bytes": 416858
+        },
+        "2160": {
+          "sha256": "7d9c00b2f7e92f680b06ee3a24861ca350d1f929da362772b8c2eba36bbd0e4a",
+          "bytes": 1323483
+        }
+      }
+    },
+    {
+      "id": "lake-titicaca-sunrise",
+      "place": "Lake Titicaca, Puno, Peru",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amanecer_en_el_lago_Titicaca,_Puno,_Per\u00fa,_2015-08-01,_DD_01.JPG",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "40c5aa9374db3ad29db5d3710fc01d8596f856b654667fd748dddf9142087e57",
+          "bytes": 273300
+        },
+        "2160": {
+          "sha256": "971b416e23b8371ecf90fc43538adbde320e7be48d5e1237d0d1dba4c57e79af",
+          "bytes": 736301
+        }
+      }
+    },
+    {
+      "id": "salar-de-uyuni-isla-del-pescado",
+      "place": "Isla del Pescado, Salar de Uyuni, Potos\u00ed, Bolivia",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isla_del_Pescado,_Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_42.JPG",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "9f832c706f211538cc601dca55b6dba8ba492d50a59a44e1a811fc46061900bc",
+          "bytes": 449153
+        },
+        "2160": {
+          "sha256": "e7c45c0fd582cc554621c6b80601b495d66992244233af12b4528b107894fe4c",
+          "bytes": 2065006
+        }
+      }
+    },
+    {
+      "id": "piedras-rojas-atacama",
+      "place": "Piedras Rojas, Atacama Desert, Antofagasta, Chile",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piedras_Rojas,_salar_de_Aguas_Calientes,_Chile,_2016-02-08,_DD_69.JPG",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "53e66707fd7aeedb9f57b0feeed5dfff761ca13218fb2cb245eb20c005a0bbb2",
+          "bytes": 341310
+        },
+        "2160": {
+          "sha256": "51717f7b158288f4772b547cbb1956b7b918013d168af130858fe2cc621660ce",
+          "bytes": 1113588
+        }
+      }
+    },
+    {
+      "id": "catedrales-de-tara",
+      "place": "Catedrales de Tara, Atacama Desert, Antofagasta, Chile",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedrales_de_Tara,_Chile,_2016-02-07,_DD_62.JPG",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "329bd6deb8dad5a7ca509ac77977fee8bf1bdd36fa2156ba414c6f66216580fb",
+          "bytes": 522600
+        },
+        "2160": {
+          "sha256": "c36f8e2172e244799d53b19efcb12d1e9375a108b6b28370964f0cd9f1f1777f",
+          "bytes": 1759101
+        }
+      }
+    },
+    {
+      "id": "cuernos-del-paine",
+      "place": "Cuernos del Paine, Torres del Paine National Park, Magallanes, Chile",
+      "credit": "Photo: Diego Delso, CC BY-SA 3.0",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine,_Parque_Nacional_Torres_del_Paine,_Chile11.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "34ae9d69c6d38ed2f2d6f0c59decc30379beae82ad19973822b84931d8317857",
+          "bytes": 432932
+        },
+        "2160": {
+          "sha256": "fed484ad29bbaed07d3d089d2617fd1f87b8b38d8c1dd05a44bb93b90738d974",
+          "bytes": 1236791
+        }
+      }
+    },
+    {
+      "id": "aoraki-mount-cook",
+      "place": "Aoraki / Mount Cook National Park, Canterbury, New Zealand",
+      "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aoraki_-_Mt_Cook,_Aoraki_-_Mount_Cook_National_Park,_New_Zealand.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "ad47695f76feaa96e046d236e306f35cd88c27a3408d5dc99853b865703d24c2",
+          "bytes": 371410
+        },
+        "2160": {
+          "sha256": "191ac0f385c2f0681f871c8e0c8560113b13dfcb55c477d44e7b1cbaa0ff173d",
+          "bytes": 1222810
+        }
+      }
+    },
+    {
+      "id": "lake-sylvester-kahurangi",
+      "place": "Lake Sylvester, Kahurangi National Park, Tasman, New Zealand",
+      "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Sylvester_during_the_sunrise,_Kahurangi,_New_Zealand.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "9416ef6207ec8c3fa35d18de34ec5c54ad60a110ad15dd1311f85f1280b7006e",
+          "bytes": 423336
+        },
+        "2160": {
+          "sha256": "3e3dd7925a3467c01955144c862ffc0cfac48b6eadff8abf88a87944232abeff",
+          "bytes": 1308327
+        }
+      }
+    },
+    {
+      "id": "wilkin-river-otago",
+      "place": "Wilkin River, Mount Aspiring National Park, Otago, New Zealand",
+      "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wilkin_River_close_to_its_confluence_with_Makarora_River,_Otago,_New_Zealand.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "3527e8950e39b759c58e10aff9d48d6f6eb26e648a290168ed705287787ae442",
+          "bytes": 411591
+        },
+        "2160": {
+          "sha256": "7b50ad6454f995ca5d834ba5880a3778dc188b0e07ce24d6021e572c8b2479bb",
+          "bytes": 2153279
+        }
+      }
+    },
+    {
+      "id": "grose-valley-nsw",
+      "place": "Grose Valley, Blue Mountains, New South Wales, Australia",
+      "credit": "Photo: Diliff, CC BY-SA 3.0",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grose_Valley,_NSW,_Australia_-_April_2013.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "aa0b8dd67684bb3e6f32289a15cd812b53402e2efeefe3de53b5f31714a7a307",
+          "bytes": 429983
+        },
+        "2160": {
+          "sha256": "12d697b31ce992fe759b3bae77cd7a82561fdabd20c278cbc83b98b72f1900b4",
+          "bytes": 3479276
+        }
+      }
+    },
+    {
+      "id": "kaikoura-black-sand-beach",
+      "place": "Kaik\u014dura, Canterbury, New Zealand",
+      "credit": "Photo: Michal Klajban, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_sand_beach_north_of_Kaikoura,_Canterbury,_New_Zealand.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "140f2b1813fd06f68b98937b1845695be515e1b516e209a4ba00420fbf458954",
+          "bytes": 480491
+        },
+        "2160": {
+          "sha256": "875d7af2a2c3f743846a786ebd912aca306f8fc4e36277003d78875d4a61902d",
+          "bytes": 1650699
+        }
+      }
+    },
+    {
+      "id": "antarctica-landscape-1",
+      "place": "Antarctic Peninsula, Antarctica",
+      "credit": "Photo: Pedro Szekely, CC BY-SA 2.0",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antarctica_Landscape.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "3a4a6a5bfa08cc4290b61f04cfb4f985f823f7346b75435267756a6163d99ac5",
+          "bytes": 261617
+        },
+        "2160": {
+          "sha256": "c42020eadac0c140d6326c78df0636b2f949cda147d7d21b8f06242591de7acd",
+          "bytes": 829755
+        }
+      }
+    },
+    {
+      "id": "antarctica-landscape-2",
+      "place": "Antarctic Peninsula, Antarctica",
+      "credit": "Photo: Pedro Szekely from Los Angeles, USA, CC BY-SA 2.0",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antarctica_landscape_(53111406514).jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "0c4ebf06523674d22c9114d536e47d01021c4bdf133ed5d7460946085a621eaf",
+          "bytes": 166772
+        },
+        "2160": {
+          "sha256": "301ffab6b53f76302776d3f0ae4b822218d0aad81b5521e43f5bf66f7e846fec",
+          "bytes": 633109
+        }
+      }
+    },
+    {
+      "id": "tabular-iceberg-weddell-sea",
+      "place": "Weddell Sea, Antarctica",
+      "credit": "Photo: Hannes Grobe, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tabular-iceberg_weddellsea_hg.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "0c02302cac6fb22c98e4806f7f7d32567a5ecaa73b207811c67f25a0b1cd5a38",
+          "bytes": 225606
+        },
+        "2160": {
+          "sha256": "eef2d045ddaf12f40e9a5d2ff3d45f7ad932e90e230ea2666572cffc3d0eaf48",
+          "bytes": 698363
+        }
+      }
+    },
+    {
+      "id": "nuna-island-upernavik",
+      "place": "Nun\u00e2, Upernavik district, Greenland",
+      "credit": "Photo: Kim Hansen, CC BY-SA 3.0",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nun\u00e2_island_Upernavik_district_2007-08-09_3.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "bbc923f42220633ae93a712fa756c1b353cc8f31f3bcb87951ca29a220f865eb",
+          "bytes": 518585
+        },
+        "2160": {
+          "sha256": "8f14428d0d036ed77f07bccb04685ab3dec09aa3f0523e1749477e3af7ec277a",
+          "bytes": 1811032
+        }
+      }
+    },
+    {
+      "id": "table-iceberg-sjuoyane",
+      "place": "Sju\u00f8yane, Svalbard, Norway",
+      "credit": "Photo: Andreas Weith, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Table_iceberg_west_of_Sju\u00f8yane,_Arctic_ocean.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "36047178eb87d9501f449382b84a519eab8ac32cd24125e60bb5fecd88ac52a0",
+          "bytes": 548523
+        },
+        "2160": {
+          "sha256": "a13fd186a48fcc7277767c71f1fa98e6f3475d655a4ee722e8c95b14c8d8bc48",
+          "bytes": 1645107
+        }
+      }
+    },
+    {
+      "id": "aurora-saana-fell",
+      "place": "Saana fell, Kilpisj\u00e4rvi, Lapland, Finland",
+      "credit": "Photo: WikiLucas00, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Saana_fell.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "7073a34cf47c0e6cf76a5e9fa21ac72ec57c778baea611eeff40035cdea72dcc",
+          "bytes": 79984
+        },
+        "2160": {
+          "sha256": "3479e485604a5667139afbb9bf2a1d63ba5b624f93c19449dd0a83900cd54480",
+          "bytes": 294173
+        }
+      }
+    },
+    {
+      "id": "crescent-moon-over-earth-iss",
+      "place": "Earth from the International Space Station",
+      "credit": "Photo: NASA Johnson Space Center, Public domain",
+      "licence": "Public domain",
+      "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_waning_crescent_Moon_above_Earth's_horizon_(iss073e0118626).jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "7095f79a6722d35f935dc847608c6d6ef23e3abeffd00be6184765f5306e11f4",
+          "bytes": 447901
+        },
+        "2160": {
+          "sha256": "967c5f678b9e31001f9902f6d7b866ef27bf9d09d67790297351539ab6b4e24a",
+          "bytes": 1594362
+        }
+      }
+    },
+    {
+      "id": "stromboli-aerial",
+      "place": "Stromboli, Aeolian Islands, Sicily, Italy",
+      "credit": "Photo: Carsten Steger, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Stromboli_(view_from_the_northeast).jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "f9f87f84b51884a230a2eb653239f74aa0dc49bce103b073cda5426faefe0d5d",
+          "bytes": 231868
+        },
+        "2160": {
+          "sha256": "72106b6385cc261f1365cb651992a7c983653e5a1ec9919fe04c0b12b3fd9435",
+          "bytes": 938615
+        }
+      }
+    },
+    {
+      "id": "taipei-sunrise",
+      "place": "Taipei, Taiwan",
+      "credit": "Photo: Chensiyuan, edit by DXR, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "91454a81aabfbd7942863aa7dc515bfd9fe579e294440693067bb1e7bfd21697",
+          "bytes": 437230
+        },
+        "2160": {
+          "sha256": "55ddc93ff176371a734958a22e010e12afa14b38827d677fead4df8e740402f0",
+          "bytes": 2028538
+        }
+      }
+    },
+    {
+      "id": "ngozumpa-glacier-khumbu",
+      "place": "Ngozumpa Glacier and Gokyo Lakes, Khumbu, Nepal",
+      "credit": "Photo: Megaurab09, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Peaks_of_Khumbu,_Ngozumpa_Glacier_and_Gokyo_Lakes.jpg",
+      "clock": "top-left",
+      "caption": "bottom-left",
+      "sizes": {
+        "1080": {
+          "sha256": "78f2ca8ff89d5219c4186607e07dd70ad1ae65b37366f410347808a57a7ec520",
+          "bytes": 586013
+        },
+        "2160": {
+          "sha256": "d27eb525a66e71e485578d14e44e2c4bce35878262c6a827f825b5017f7927a3",
+          "bytes": 2061869
+        }
+      }
+    },
+    {
+      "id": "margerie-glacier-alaska",
+      "place": "Margerie Glacier, Glacier Bay National Park, Alaska, United States",
+      "credit": "Photo: Diego Delso, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glaciar_Margerie,_Parque_Nacional_Bah\u00eda_del_Glaciar,_Alaska,_Estados_Unidos,_2017-08-19,_DD_33.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "e1919fbd25a534ad2ef0f95d2eba80a6a682e96ecbaa48c81158ae9a54154ebc",
+          "bytes": 392013
+        },
+        "2160": {
+          "sha256": "f133ce016b254a7b9def71c374f6a2eae0f3d882ff94e0b9196417c9fb5bc281",
+          "bytes": 1416770
+        }
+      }
+    },
+    {
+      "id": "aurora-torkilstoten",
+      "place": "Torkilst\u00f6ten, Sweden",
+      "credit": "Photo: Arild V\u00e5gen, CC BY-SA 4.0",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torkilst\u00f6ten_December_2014_02.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "362a0a09a27e1dc83be5bae3b235848fb704299961611dce8f8082452e4a295d",
+          "bytes": 291060
+        },
+        "2160": {
+          "sha256": "903ab03234d215db2fb7b70f671c9cd8e25d46b65afce003b25f3726e97c21d1",
+          "bytes": 977783
+        }
+      }
+    },
+    {
+      "id": "paranal-milky-way",
+      "place": "Paranal Observatory, Atacama Desert, Chile",
+      "credit": "Photo: ESO/S. Guisard (www.eso.org/~sguisard), CC BY 4.0",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg",
+      "clock": "top-right",
+      "caption": "bottom-right",
+      "sizes": {
+        "1080": {
+          "sha256": "5e9b6b763fd86c658229dfe1add3925f221946672e22ea37b9cc670fb570031a",
+          "bytes": 590257
+        },
+        "2160": {
+          "sha256": "4b45465e972d90b39e3db3b4f8e4a09041dc0fbbcdab1cbd721049e562f52427",
+          "bytes": 2660501
+        }
+      }
+    }
+  ]
+}
