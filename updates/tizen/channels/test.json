@@ -1,0 +1,32 @@
+{
+  "current": "2.0.46",
+  "build": 26,
+  "recent": [
+    {
+      "version": "2.0.46",
+      "build": 26,
+      "dataLevel": 0
+    },
+    {
+      "version": "2.0.45",
+      "build": 25,
+      "dataLevel": 0
+    },
+    {
+      "version": "2.0.44",
+      "build": 24,
+      "dataLevel": 0
+    },
+    {
+      "version": "2.0.43",
+      "build": 23,
+      "dataLevel": 0
+    },
+    {
+      "version": "2.0.42",
+      "build": 22,
+      "dataLevel": 0
+    }
+  ],
+  "withdrawn": []
+}
